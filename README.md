@@ -1,6 +1,6 @@
 # DIY Singlestick Guard
 
-![guard.jpg]()
+![guard.jpg](guard.jpg)
 
 ## Supplies
 
