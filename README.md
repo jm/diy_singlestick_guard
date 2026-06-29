@@ -2,6 +2,8 @@
 
 ![guard.jpg](guard.jpg)
 
+Download the PDF of the [instructions here](instructions.pdf) or download all the files (pattern + instructions) from [the Releases section](https://github.com/jm/diy_singlestick_guard/releases).  Get the newest version by [clicking here](https://github.com/jm/diy_singlestick_guard/releases/latest).
+
 ## Supplies
 
 _Note: These Amazon links are affiliate links, which means if you buy something, I get a little money.  Feel free to search these out on Amazon separately if you'd prefer to avoid that!_
