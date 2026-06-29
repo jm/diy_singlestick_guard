@@ -4,6 +4,8 @@
 
 ## Supplies
 
+_Note: These Amazon links are affiliate links, which means if you buy something, I get a little money.  Feel free to search these out on Amazon separately if you'd prefer to avoid that!_
+
 - **3mm Leather** - I used 3–4mm (around 8oz) leather. Here's the leather I used from Amazon: https://amzn.to/4vyqjjn. Many people like heavier leather (more like 5-6mm).  It's a preference thing.  You can _probably_ get away with something a little lighter, but I really wouldn't go below 3mm.
 - **Leather thread/needles** - You'll need some thread and needles appropriate for sewing leather.  Kits on Amazon are like $5-$8 (I used this one: https://amzn.to/4vudUNr).  You're looking for waxed thread and leather/upholstery needles.  You don't really need big, chonky needles but just big enough head to get the thick thread through.  You will appreciate the smallest appropriate needle as you're stitching things, trust me.
 - **Dye (optional)** - I like Angelus dyes. They're cheap on Amazon and come in oodles of colors (see all the colors/prices here: https://amzn.to/4oMosEY). Fair warning: they are POTENT. Keep it off anything you care about.
@@ -16,8 +18,7 @@ There are a few ways to cut the pattern, and how you do it probably dictates the
 
 * A high end die cutter (i.e., not a Cricut but like a fancy Siser or something similar) can probably cut it.  If that's your jam, [you want the SVG](guard_pattern.svg).
 * A laser cutter.  That's what I used and it works great. In that case, [you again want the SVG](guard_pattern.svg).
-* By hand.  It works fine but requires some elbow grease.  I made two printable versions of the pattern: one for [letter sized](guard_pattern_letter_sized.pdf) (i.e., standard 8.5" x 11") paper and one for [legal sized](guard_pattern_legal_sized.pdf) (8.5" x 14") paper.  Print, cut to shape, and awl the holes.
-
+* By hand.  It works fine but requires some elbow grease.  I made two printable versions of the pattern: one for [letter sized](guard_pattern_letter_sized.pdf) (i.e., standard 8.5" x 11") paper and one for [legal sized](guard_pattern_legal_sized.pdf) (8.5" x 14") paper.  Print, cut to shape, and awl the holes.  I'd suggest a rotary cutter (like this one: https://amzn.to/4v1TAlu) or heavy shears (like these: https://amzn.to/4xVz9cq) to cut the shape, and then a simple awl (like these: https://amzn.to/4xUwkZe) to handle the holes.
 
 ## Process
 
